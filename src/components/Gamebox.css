@@ -1,0 +1,10 @@
+.box {
+    width: 150px;
+    height: 150px;
+}
+.box:nth-child(odd) {
+    background: rgb(80, 80, 255);
+}
+.box:nth-child(even) {
+    background: blue;
+}

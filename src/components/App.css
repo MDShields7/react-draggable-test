@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.gameContainer {
+  box-sizing: "border-box";
+  border: 10px solid rgb(62, 20, 41);
+  border-radius: 3px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  background: #3e1429;
+  height: 600px;
+  width: 600px;
+  position: relative;
+}
